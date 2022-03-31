@@ -1,7 +1,7 @@
 <h1 style="text-align: center">Bonjour there 👋</h1>
 
 <div style="text-align: center">
-  ![Logo](images/cyber_gif.webp "Logo")
+![](images/cyber_gif.gif)
 
 - 🔭 I’m currently studying in Russian Technological University.
 - 🌱 I’m currently practicing Python and Ruby.
