@@ -1,15 +1,18 @@
-<h1 align="center">Bonjour there 👋</h1>
+<h1 style="text-align: center">Bonjour there 👋</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="1000"/>
+<div style="text-align: center">
+  ![Logo](images/cyber_gif.webp "Logo")
 
 - 🔭 I’m currently studying in Russian Technological University.
 - 🌱 I’m currently practicing Python and Ruby.
-- ⚡ Fun fact: I really enjoy synthwave music! Also I like doing sports. For instance, I'm able to run long distances. In addition, I get to the university in 2 hours by bus and subway. Traffic jams.. Huge traffic jams.. Full of people busses.. 
+- ⚡ Fun fact: I really enjoy synthwave music! Also I like doing sports. For instance, I'm able to run long distances. In
+  addition, I get to the university in 2 hours by bus and subway. Traffic jams.. Huge traffic jams.. Full of people
+  busses..
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg "Python logo")
+![Ruby](https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg "Ruby logo")
+![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg "MySQL logo")
